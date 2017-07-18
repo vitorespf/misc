@@ -1,3 +1,9 @@
+# linux/x86 - Bind Shell Shellcode 
+# This shellcode will listen on port 11111
+# Author: vesp3r
+# Tested on: Debian GNU/Linux 8/x86
+
+
 global _start
 
 section .text
