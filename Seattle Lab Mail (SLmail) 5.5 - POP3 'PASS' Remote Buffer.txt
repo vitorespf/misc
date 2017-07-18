@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 # 
-# Seattle Lab Mail (SLmail) 5.5 - POP3 'PASS' Remote Buffer 
+# Seattle Lab Mail (SLmail) 5.5 - POP3 'PASS' Remote Buffer Overflow
 # Author: vesp3r
 #
 
